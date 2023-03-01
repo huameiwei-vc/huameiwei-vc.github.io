@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://huamei.eu.org</id>
+    <title>话梅味维C</title>
+    <updated>2023-03-01T03:34:45.893Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://huamei.eu.org"/>
+    <link rel="self" href="https://huamei.eu.org/atom.xml"/>
+    <subtitle>书写，是最好的思考。</subtitle>
+    <logo>https://huamei.eu.org/images/avatar.png</logo>
+    <icon>https://huamei.eu.org/favicon.ico</icon>
+    <rights>All rights reserved 2023, 话梅味维C</rights>
+    <entry>
+        <title type="html"><![CDATA[typora+alfred 笔记系统]]></title>
+        <id>https://huamei.eu.org/post/typoraalfred-bi-ji-xi-tong/</id>
+        <link href="https://huamei.eu.org/post/typoraalfred-bi-ji-xi-tong/">
+        </link>
+        <updated>2023-03-01T03:17:47.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自我管理之笔记记录]]></title>
+        <id>https://huamei.eu.org/post/zi-wo-guan-li-zhi-bi-ji-ji-lu/</id>
+        <link href="https://huamei.eu.org/post/zi-wo-guan-li-zhi-bi-ji-ji-lu/">
+        </link>
+        <updated>2023-03-01T02:27:00.000Z</updated>
+    </entry>
+</feed>
